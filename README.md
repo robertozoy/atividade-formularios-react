@@ -1,4 +1,4 @@
-# 📋 Projeto 1 - Formulario em react 
+# 📋 Projeto - Formulario em react 
 
 Este projeto foi desenvolvido como requisito para a disciplina de Interface Grafica. 
 
